@@ -40,3 +40,23 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
 |     |     |     |     |     |
+
+
+## Scène #1 : Menu de départ
+
+![](https://th.bing.com/th/id/R.1d79fb07247d6bb2942c22e20301742a?rik=cyr%2fBCiFzamcnQ&riu=http%3a%2f%2fassets2.ignimgs.com%2f2014%2f10%2f30%2fmausoleum-trappng-7f5ff1.png&ehk=%2bQC4yZGjptom6hCrKhrelW1zxC8SphVyDQVEACoRdX8%3d&risl=&pid=ImgRaw&r=0)
+
+**Ce que l’interacteur voit :**
+- Titre du projet
+- Indication du bouton à appuyé
+- Fond d'écran avec personnages ligotés 
+
+**Ce que l’interacteur entend :**
+- Musique d'ambiance sombre
+- Respiration lente
+
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|  Appuie   |   Tout le monde appuie en même temps sur la bouton indiqué  |  Le premier mini jeu se lance   |  Bruit de bip   |  Aucun   |
