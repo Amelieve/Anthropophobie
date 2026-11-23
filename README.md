@@ -21,3 +21,10 @@ Qu'est-ce que fait l'interacteur?
 un résumé du parcours de l'interacteur du début à la fin de son expérience - qu'est-ce qu'il fait, qu'est-ce qu'il manipule, etc
 -->
 
+## Comment le projet s'adapte pour un à plusieurs interacteurs
+
+...
+
+## Pourquoi ce projet est original ?
+
+...
