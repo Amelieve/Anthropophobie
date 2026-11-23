@@ -60,3 +60,22 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
 |  Appuie   |   Tout le monde appuie en même temps sur la bouton indiqué  |  Le premier mini jeu se lance   |  Bruit de bip   |  Aucun   |
+
+## Scène #3 : Menu de victoire
+
+![](https://t3.ftcdn.net/jpg/00/67/34/76/360_F_67347634_LYka8WgzyCQouxW17GS1wklXlnZcGDiR.jpg)
+
+**Ce que l’interacteur voit :**
+- Le personnage du vainceur qui traverse une porte vers de la lumière.
+- Tableau de score, liste de mini-jeux et liste d'événements passés durant la partie (Pertes des vies + défaites des perdants).
+- Une indication d'appuyer un bouton clignote légèrement au bas de l'écran.
+- Lorsque le joueur appuies sur un bouton, l'écran s'illumine en blanc pour faire sa transition vers le menu de départ.
+
+**Ce que l’interacteur entend :**
+- Le chant des oiseaux.
+- Le grincement de la porte qui balotte un peu.
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|  Appuie   |   Le joueur vainceur doit appuyer sur un boutton pour recommencer le jeu  |  L'écran devient de plus en plus blanc jusqu'à revenir au menu de départ   |  Chants en coeur qui montent en crescendo   |  Aucun   |
