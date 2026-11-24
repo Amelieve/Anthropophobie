@@ -21,27 +21,6 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 -->
 
 
-## Scène #ID : Nom de scène
-
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
-
-**Ce que l’interacteur voit :**
-- ...
-
-**Ce que l’interacteur entend :**
-- ...
-
-### Tableau des automatisations
-| Déclenchement | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- |
-|     |     |     |     |
-
-### Tableau des actions
-| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- | -- |
-|     |     |     |     |     |
-
-
 ## Scène #1 : Menu de départ
 
 ![](https://th.bing.com/th/id/R.1d79fb07247d6bb2942c22e20301742a?rik=cyr%2fBCiFzamcnQ&riu=http%3a%2f%2fassets2.ignimgs.com%2f2014%2f10%2f30%2fmausoleum-trappng-7f5ff1.png&ehk=%2bQC4yZGjptom6hCrKhrelW1zxC8SphVyDQVEACoRdX8%3d&risl=&pid=ImgRaw&r=0)
@@ -59,7 +38,28 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|  Appuie   |   Tout le monde appuie en même temps sur la bouton indiqué  |  Le premier mini jeu se lance   |  Bruit de bip   |  Aucun   |
+|  Appuie   |   Tout le monde appuie en même temps sur la bouton indiqué  |  Le premier mini jeu se lance   |  Bruit de bip   |  Unity charge un mini-jeu aléatoire d'une liste   |
+
+## Scène #2 : Chambre des chutes
+
+![](https://img.itch.zone/aW1nLzIyMDY4NjI2LnBuZw==/original/g2F1pB.png)
+
+**Ce que l’interacteur voit :**
+- Les personnages que les joueurs pilotent sont disposés au quatre coins d'une salle miteuse. Le plancher est composé de tuiles noires et blanches.
+- La vie des joueurs est présente lorsque le mini jeu commence mais elle disparait au moment que les joueurs gagnent contrôle de leur personnage.
+- Une petite animation en 3 images qui se bouclent est affichée et elle signale aux joueurs qu'ils se serviront de leur joystick dans ce mini-jeu.
+- Un compteur de 3 se fait au milieu de l'écran pour signifier que le mini jeu est sur le point de démarer.
+
+<!--       !!!!!! À TERMINER !!!!!
+**Ce que l’interacteur entend :**
+- Le chant des oiseaux.
+- Le grincement de la porte qui balotte un peu.
+
+### Tableau des actions
+| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
+| -- | -- | -- | -- | -- |
+|  Appuie   |   Le joueur vainceur doit appuyer sur un boutton pour recommencer le jeu  |  L'écran devient de plus en plus blanc jusqu'à revenir au menu de départ   |  Chants en coeur qui montent en crescendo   |  Unity charge la scène de départ et l'affiche dès que la transition se termine   |
+-->
 
 ## Scène #3 : Menu de victoire
 
@@ -78,4 +78,4 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|  Appuie   |   Le joueur vainceur doit appuyer sur un boutton pour recommencer le jeu  |  L'écran devient de plus en plus blanc jusqu'à revenir au menu de départ   |  Chants en coeur qui montent en crescendo   |  Aucun   |
+|  Appuie   |   Le joueur vainceur doit appuyer sur un boutton pour recommencer le jeu  |  L'écran devient de plus en plus blanc jusqu'à revenir au menu de départ   |  Chants en coeur qui montent en crescendo   |  Unity charge la scène de départ et l'affiche dès que la transition se termine   |
